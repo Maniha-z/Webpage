@@ -1,1 +1,17 @@
+{
+  "users": [
+    {
+      "name": "Alice Johnson",
+      "email": "alice@example.com"
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob@example.com"
+    },
+    {
+      "name": "Charlie Davis",
+      "email": "charlie@example.com"
+    }
+  ]
+}
 
